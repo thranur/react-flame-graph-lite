@@ -58,7 +58,6 @@
     "**/*.js": "eslint --max-warnings 0"
   },
   "dependencies": {
-    "flow-bin": "^0.118.0",
     "memoize-one": "^3.1.1",
     "react-window": "^1"
   },
