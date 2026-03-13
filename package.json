@@ -1,32 +1,23 @@
 {
-  "name": "react-flame-graph",
-  "version": "1.4.0",
-  "description": "React component for visualizing profiling data",
-  "author": "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)",
+  "name": "react-flame-graph-lite",
+  "version": "1.0.0",
+    "description": "Fork of react-flame-graph by Brian Vaughn, with less dependencies. All credit goes to him.",
+  "author": "Thranur <thranur@gmail.com> (https://github.com/thranur/)",
   "contributors": [
-    "Brian Vaughn <brian.david.vaughn@gmail.com> (https://github.com/bvaughn/)"
+    "Thranur <thranur@gmail.com> (https://github.com/thranur/)"
   ],
   "license": "MIT",
-  "homepage": "http://react-flame-graph.now.sh/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-flame-graph.git"
+    "url": "https://github.com/thranur/react-flame-graph-lite.git"
   },
   "bugs": {
-    "url": "https://github.com/bvaughn/react-flame-graph/issues"
+    "url": "https://github.com/thranur/react-flame-graph-lite/issues"
   },
   "engines": {
     "node": ">8.0.0"
   },
   "keywords": [
-    "react",
-    "reactjs",
-    "performance",
-    "profiling",
-    "chart",
-    "charting",
-    "flame chart",
-    "flamechart",
     "flame graph",
     "flamegraph"
   ],
