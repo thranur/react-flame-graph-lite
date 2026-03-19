@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thranur/react-flame-graph-lite.git"
+    "url": "git+https://github.com/thranur/react-flame-graph-lite.git"
   },
   "bugs": {
     "url": "https://github.com/thranur/react-flame-graph-lite/issues"
