@@ -1,7 +1,7 @@
 {
   "name": "react-flame-graph-lite",
   "version": "1.0.0",
-    "description": "Fork of react-flame-graph by Brian Vaughn, with less dependencies. All credit goes to him.",
+  "description": "Fork of react-flame-graph by Brian Vaughn, with less dependencies. All credit goes to him.",
   "author": "Thranur <thranur@gmail.com> (https://github.com/thranur/)",
   "contributors": [
     "Thranur <thranur@gmail.com> (https://github.com/thranur/)"
